@@ -1,4 +1,3 @@
-# nginx-streaming-docker
-NGINX optimized for streaming applications
+# nginx-docker
 
-https://hub.docker.com/r/spreadspace/nginx-streaming/
+https://hub.docker.com/r/spreadspace/nginx/
